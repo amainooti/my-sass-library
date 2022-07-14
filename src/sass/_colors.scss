@@ -7,4 +7,12 @@
     .bg-#{$key} {
         background-color: $val;
     }
+
+    // generating light colors
+
+    @for $i from 1 through 9 {
+         .text-#{$key}-light-#{$i}{
+            color: mix(white, $val, $i * 10);
+         }
+    }
 }
