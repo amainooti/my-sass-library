@@ -1,16 +1,17 @@
 
 // variables and functions
+@import "function";
 @import "variables";
 
 // layout and base
 @import "base.scss";
-
+@import "breakpoint";
 // colors
 @import "colors";
 
 // components (button, card, navbar)
 @import "card.scss";
-
+@import "./components/button";
 // utilities
 
 
