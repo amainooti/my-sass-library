@@ -26,4 +26,135 @@ img {
   max-width: 100%;
 }
 
+.text-primary {
+  color: #326dee;
+}
+
+.bg-primary {
+  background-color: #326dee;
+}
+
+.text-secondary {
+  color: #1ac888;
+}
+
+.bg-secondary {
+  background-color: #1ac888;
+}
+
+.text-error {
+  color: #d32752;
+}
+
+.bg-error {
+  background-color: #d32752;
+}
+
+.text-info {
+  color: #f6c31c;
+}
+
+.bg-info {
+  background-color: #f6c31c;
+}
+
+.text-blue {
+  color: #1919e6;
+}
+
+.bg-blue {
+  background-color: #1919e6;
+}
+
+.text-red {
+  color: #e61919;
+}
+
+.bg-red {
+  background-color: #e61919;
+}
+
+.text-yellow {
+  color: #e6e619;
+}
+
+.bg-yellow {
+  background-color: #e6e619;
+}
+
+.text-green {
+  color: #19e635;
+}
+
+.bg-green {
+  background-color: #19e635;
+}
+
+.text-orange {
+  color: #ffa600;
+}
+
+.bg-orange {
+  background-color: #ffa600;
+}
+
+.text-purple {
+  color: #90f;
+}
+
+.bg-purple {
+  background-color: #90f;
+}
+
+.text-gray {
+  color: gray;
+}
+
+.bg-gray {
+  background-color: gray;
+}
+
+.text-black {
+  color: #000;
+}
+
+.bg-black {
+  background-color: #000;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 5.88235px;
+  margin: .78rem;
+  padding: .78rem;
+  display: block;
+  box-shadow: 1px 3px 3px #0000001a;
+}
+
+.card .card-title {
+  padding-bottom: .78rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.card .card-title p {
+  text-transform: capitalize;
+}
+
+.card .card-body {
+  font-size: 1rem;
+}
+
+.card .card-body a {
+  text-transform: capitalize;
+}
+
 /*# sourceMappingURL=index.f7626f62.css.map */
